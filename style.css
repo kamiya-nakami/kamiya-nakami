@@ -18,7 +18,6 @@ body {
     background: hsl(0, 0%, 100%);
 }
 .QR-siz {
-    height: 49vh;
     width: 23rem;
     margin-top: 1.125rem;
     margin-left: 1.188rem;
@@ -31,10 +30,10 @@ body {
     margin: 40px 0;
 }
 
-.col-1  {
+.pie  {
     text-align-last: center;
 }
-.col-1 p {
+.pie p {
     width: 269.083px;
     height: 67px;
     padding-left: 34px;
@@ -49,7 +48,7 @@ body {
         width: 100%;
         height: 100%;
     }
-    .col-1 {
+    .pie {
         font-size: 15px;
     }
 
